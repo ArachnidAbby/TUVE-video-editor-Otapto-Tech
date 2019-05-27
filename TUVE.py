@@ -6,7 +6,7 @@ gameDisplay  = pygame.display.set_mode((1600,900),pygame.RESIZABLE)
 pygame.display.set_caption("The Ultimate Video Editor")
 icon = pygame.image.load('Resources\Image Files\T.png')
 pygame.display.set_icon(icon)
-
+running = True
 while running:
     for event in pygame.event.get():
         if event.type==pygame.QUIT:
