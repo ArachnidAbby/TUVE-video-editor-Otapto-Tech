@@ -1,0 +1,15 @@
+File{
+	"New","Ctrl+N"
+	"Open...","Ctrl+O"
+	"Save","Ctrl+S"
+	"Save as...",""
+	sep
+	"Page Setup...",""
+	"Print...","Ctrl+P"
+	sep
+	"Exit",""
+}
+Edit{}
+View{}
+Preferences{}
+Help{}
